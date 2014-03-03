@@ -1,0 +1,15 @@
+Enter a guess between 1 and 10
+1
+You Suck!
+Enter a guess between 1 and 10
+2
+You Suck!
+Enter a guess between 1 and 10
+3
+You Suck!
+Enter a guess between 1 and 10
+4
+You Suck!
+Enter a guess between 1 and 10
+5
+WOOHOO! You can guess a number that never changes!

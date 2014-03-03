@@ -1,0 +1,17 @@
+Run #1:
+Enter a guess between 1 and 10
+1
+You Suck!
+Now Try Again!
+Enter a guess between 1 and 10
+3
+You Really Suck!
+
+Run #2:
+Enter a guess between 1 and 10
+4
+You Suck!
+Now Try Again!
+Enter a guess between 1 and 10
+5
+WOOHOO! You can guess a number that never changes!
