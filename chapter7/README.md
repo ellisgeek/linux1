@@ -410,7 +410,7 @@ echo ${array3[*]}
 ```
 
    - Output
- 
+
 ```
 first
 two
@@ -424,7 +424,7 @@ a b c
 
  - Array 2
    - Script
-   
+
 ```
 #!/bin/bash
 
@@ -450,7 +450,7 @@ Linux
 
  - File 1
    - Script:
-   
+
 ```
 #!/bin/bash
 
@@ -476,7 +476,7 @@ Run #2:
 
  - File 2
    - Script:
-   
+
 ```
 #!/bin/bash
 
@@ -519,7 +519,7 @@ fi
 
  - Guess random number
     - Script:
-    
+
 ```
 #!/bin/bash
 
@@ -565,7 +565,7 @@ You Really Suck!
 
  - Bash Math
    - Script
-   
+
 ```
 #!/bin/bash
 
@@ -660,7 +660,7 @@ Bye!
 
  - Add 2 Numbers
    - Script
-   
+
 ```
 #!/bin/bash
 echo -e "Please enter two numbers!"
@@ -683,7 +683,7 @@ Result is: 3
 
  - Sort Months (python) (run as "python path/to/script")
    - Script:
-   
+
 ```
 #!/usr/bin/env python
 
@@ -700,7 +700,7 @@ for month in sorted(months):
 ```
 
    - Output:
-   
+
 ```
 Traditional order:
 January
@@ -734,9 +734,9 @@ September
 
  - List Directory contents (python) (run as "python path/to/script")
    - Script:
- 
- ```
- #!/usr/bin/env python
+
+```
+#!/usr/bin/env python
 
 import os
 
