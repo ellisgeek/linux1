@@ -1,0 +1,4 @@
+~/file is not empty
+~/file is not a directory
+~/file Exists
+~/file is readable
