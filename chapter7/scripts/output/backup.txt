@@ -1,0 +1,6 @@
+Current directory is /home/ellisgeek/linux1/chapter7/scripts
+What folder should I backup?: ~/mint
+Where should I backup to?: ~/bkup
+
+Copied Successfully!
+
